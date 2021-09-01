@@ -10,7 +10,7 @@ include_in_header: true
 # **Version 1.0**
 Canada Cheese helps you find your next favourite Canadian cheese!
 
-VIEW 1300+ CANADIAN CHEESE
+VIEW 1300+ CANADIAN CHEESE<br>
 Canada Cheese showcases Canadian cheese from all across the country. Find cheese information such as:
 - Name
 - Manufacturer
@@ -29,7 +29,7 @@ Canada Cheese showcases Canadian cheese from all across the country. Find cheese
 - Milk treatment
 - Rind type
 
-SAVE YOUR FAVOURITES
+SAVE YOUR FAVOURITES<br>
 Mark your favourite cheese or those you want to try later.
 
 FILTER CHEESE BY
@@ -48,7 +48,7 @@ SEARCH FOR CHEESE BY
 - Characteristics
 - Particularities
 
-DISCLAIMER
+DISCLAIMER<br>
 The app gets its data from the Canadian Cheese Directory which is compiled and updated by the Canadian Dairy Information Centre (CDIC) in collaboration with the Ministère de l'Agriculture, des Pêcheries et de l'Alimentation du Québec (MAPAQ). This app is in no way endorsed by or affiliated with CDIC or MAPAQ.
 
 The Canadian Dairy Information Centre (CDIC) cannot guarantee the accuracy of all information included in this directory. To obtain further details and information about a specific cheese, they suggest contacting the respective cheese manufacturer directly.
