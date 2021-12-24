@@ -6,6 +6,13 @@ include_in_header: true
 
 # Changelog
 
+### `Latest`
+## **Version 1.1**
+WIDGETS<br>
+Customizable Home Screen widgets help you discover new favourites! Larger widgets show more information.<br>
+
+Bug fixes
+
 ### `Initial Release`
 # **Version 1.0**
 Canada Cheese helps you find your next favourite Canadian cheese!
