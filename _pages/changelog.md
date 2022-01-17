@@ -7,6 +7,12 @@ include_in_header: true
 # Changelog
 
 ### `Latest`
+## **Version 1.2.0**
+IMPROVED USER INTERFACE<br>
+Improved the user interface on iPad for all screen orientations and larger iPhones when in landscape mode.<br>
+
+Large widgets now show more cheese information if there is available space.
+
 ## **Version 1.1.1**
 Bug fixes
 
