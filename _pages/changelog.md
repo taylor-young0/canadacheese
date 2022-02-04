@@ -7,6 +7,9 @@ include_in_header: true
 # Changelog
 
 ### `Latest`
+## **Version 1.2.1**
+Bug fixes.
+
 ## **Version 1.2.0**
 IMPROVED USER INTERFACE<br>
 Improved the user interface on iPad for all screen orientations and larger iPhones when in landscape mode.<br>
