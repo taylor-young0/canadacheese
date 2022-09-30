@@ -36,16 +36,28 @@ youtube_username                          :
 features                                  :
 
   - title                                 : Discover Canadian cheese
-    description                           : View information for 1300+ Canadian cheese!
+    description                           : Canada Cheese showcases Canadian cheese from all across the country. Find cheese information such as name, manufacturer information, fat, flavour, ripening, milk type and more...
     fontawesome_icon_name                 : info
 
+  - title                                 : Localized for French and English
+    description                           : Discover your next favourite cheese in your preferred language. Cheese information can be displayed in French or English when available.
+    fontawesome_icon_name                 : language
+
   - title                                 : Favourites
-    description                           : Save your favourites or those you want to try later!
+    description                           : Canada Cheese helps you find your next favourite Canadian cheese! Save your favourites or those you want to try later!
     fontawesome_icon_name                 : star
 
-  - title                                 : Filter and Search
-    description                           : Filter through cheese types, manufacturer province, milk type, organic and more. Search cheese descriptions for your next favourite cheese.
+  - title                                 : Filter
+    description                           : Filter cheese by manufacturing type, manufacturer province, organic/non-organic, cheese type, milk type, milk treatment, and rind type.
     fontawesome_icon_name                 : filter
+
+  - title                                 : Search
+    description                           : Search cheese by name, manufacturer, flavour, characteristics, and particularities.
+    fontawesome_icon_name                 : search
+
+  - title                                 : Home Screen widgets
+    description                           : Customizable Home Screen widgets help you discover new favourites! Larger widgets show more information.
+    fontawesome_icon_name                 : random
 
 # Theme Settings
 topbar_color                              : "#000000"
